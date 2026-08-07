@@ -1,0 +1,2 @@
+*.rar filter=lfs diff=lfs merge=lfs -text
+minecraftserver1.12.2.rar filter=lfs diff=lfs merge=lfs -text
