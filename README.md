@@ -1,4 +1,5 @@
 # Barnaul-Minecraft-Server-IC-BC-Forestry
+![Java](https://img.shields.io/badge/language-Java-orange)
 My Barnaul-Minecraft-Server-IC-BC-Forestry 1.12.2.rar
 ## Как подключиться к серверу
 
